@@ -20,6 +20,8 @@ from core.excel_generator import convert_json_to_structured_excel
 st.set_page_config(page_title="复杂表格智能分析系统", layout="wide")
 st.title("📊 复杂表格智能分析系统")
 
+#test
+
 # 自定义CSS
 st.markdown("""
 <style>
